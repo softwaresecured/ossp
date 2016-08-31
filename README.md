@@ -8,7 +8,7 @@ A vulnerability sweep is a proactive effort to find as many serious bugs as poss
 
 ##Why OSSP?
 
-We started this project as our way of giving back to the [open-source? development? security?] community. Some time ago, Software Secured came up with a way to secure open-source code. That initative, Security Labs, wasn’t sustainable. However, we are sticking to our goal, and we launched OSSP to keep the mission alive.
+We started this project as our way of giving back to the open-source community. Some time ago, Software Secured came up with a way to secure open-source code. That initative, Security Labs, wasn’t sustainable. However, we are sticking to our goal, and we launched OSSP to keep the mission alive.
 
 ##How does it work?
 
@@ -16,4 +16,4 @@ It’s simple. Users or developers of an open-source project submit the project 
 
 ##What are the differences between users, contributors, and owners?
 
-When you vote, you have to specify your relationship to the project. Do you contribute to the project, are you the project lead (or one of the project leads), or are you a user of the project? When a project has more users, that tells us there is a greater need for security in that project. When a project has more contributors, we know that there are people ready to fix the issues we come up with. Finally, owners’ engagement tells us that the project leadership is on board.
+When you vote, you have to specify your relationship to the project. Do you contribute to the project, are you the project lead (or one of the project leads), or are you a user of the project? When a project has more users, that tells us there is a greater need for security in that project. When a project has more contributors, we know that there are people ready to fix the issues we find. Finally, owners’ engagement tells us that the project leadership is on board.
